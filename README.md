@@ -1,2 +1,5 @@
-# sudoku
-软件工程基础个人项目
+# Sudoku
+&lt;Software Engineering> -- Personal Project --&lt;Sudoku>
+
+The output file is sudoku.txt under the /BIN dir,whether -s or -c
+
